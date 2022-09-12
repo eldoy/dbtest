@@ -1,0 +1,25 @@
+{
+  "name": "dbtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldoy/dbtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldoy/dbtest/issues"
+  },
+  "homepage": "https://github.com/eldoy/dbtest#readme",
+  "dependencies": {
+    "lokijs": "^1.5.12",
+    "mongodb-memory-server": "^8.9.1",
+    "mongowave": "^0.3.0",
+    "sqlite3": "^5.0.11"
+  }
+}
